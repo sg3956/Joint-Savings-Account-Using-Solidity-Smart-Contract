@@ -1,6 +1,7 @@
 # Joint-Savings-Account-Using-Solidity-Smart-Contract
 
 The program aims to streamline the process of setting up joint savings accounts by developing a Solidity smart contract. This contract will enable two users to control a shared savings account. By utilizing ether management functions, the contract will fulfill the requirements set by a financial institution, providing essential features such as depositing and withdrawing funds from the joint savings account.
+
 ---
 
 ## Technologies
